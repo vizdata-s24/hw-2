@@ -1,0 +1,43 @@
+---
+title: "STA 313 - Spring 2024 - HW 2"
+subtitle: "Across dimensions"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+```{r}
+#| label: load-packages
+#| message: false
+
+library(tidyverse)
+library(fs)
+library(ggridges)
+library(ggthemes)
+library(openintro)
+library(scales)
+# add other packages as needed or remove comment
+```
+
+## 1 - A new day, a new plot, a new geom.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 2 - Another look at MPGs.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 3 - Foreign Connected PACs.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 4 - Median housing prices in the US.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 5 - Thank you.
+
+Add parts, narrative, and/or code chunks as needed.
+
